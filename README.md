@@ -1,3 +1,35 @@
+# 💰 Balance Sheet Web Application
+
+A simple and responsive web application to manage personal or organizational transactions by tracking credits and debits. It calculates and displays the current balance in real time based on user input.
+
+## 🚀 Features
+
+- 💳 Add credit and debit transactions
+- 🔁 Auto-updates current balance after each transaction
+- ✅ Prevents overdrafts by validating debit amount
+- 🗂️ Transaction history list with refresh trigger
+- 🧮 Real-time balance calculation using backend data
+- 💡 React functional components and hooks
+- 🎨 Styled with inline CSS for clean UI
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js (Hooks, Functional Components)
+- **Backend:** Node.js, Express.js (API at `/api/transactions`)
+- **Database:** MongoDB (via backend API)
+- **Tools:** Fetch API, useEffect, useState
+
+## 📦 Folder Structure
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
